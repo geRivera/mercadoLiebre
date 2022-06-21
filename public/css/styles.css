@@ -68,14 +68,15 @@ div.burger-menu{
 }
 
 div.burger-menu i{
-    background-color: #0044AA;
-    border-radius: 5px;
-    color: #FFF;
-    font-size: 20px;
-    height: 40px;
+    background-color: #1259c3;
+    color:#ebebeb;
     margin: 10px 0px 20px 0px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5em;
+    height: 45px;
+    width: 45px;
     padding: 10px;
-    width: 40px;
 }
 
 article div.main-article{
